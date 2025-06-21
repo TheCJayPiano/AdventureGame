@@ -23,7 +23,11 @@ based on their decisions.
 */
 
 // Display the game title
+console.log("=".repeat(40));
 console.log("Welcome to the Adventure Game");
+console.log("=".repeat(40));
+
+
 
 // Add a welcome message
 console.log("Prepare yourself for an epic journey!");
